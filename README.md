@@ -1,1 +1,12 @@
+![2](https://user-images.githubusercontent.com/79634998/158590003-58eeed69-f0af-4cc6-aa87-1c1b92b98839.jpeg)
 # HospitalManagementPHP
+![3](https://user-images.githubusercontent.com/79634998/158590038-e37f21e3-2af3-41df-b2e4-249246a5c1b6.jpeg)
+![4](https://user-images.githubusercontent.com/79634998/158590056-e7c197c9-51e9-47f3-8d00-3776df06a8ec.jpeg)
+![5](https://user-images.githubusercontent.com/79634998/158590065-7903684a-d542-46d5-bf61-2aa41b00ec1e.jpeg)
+![6](https://user-images.githubusercontent.com/79634998/158590081-093e8b13-2b1b-44d9-a404-8ff59dd72581.jpeg)
+![8](https://user-images.githubusercontent.com/79634998/158590094-c97dd657-30a8-4172-8adc-cfc9b4bc173b.jpeg)
+![9](https://user-images.githubusercontent.com/79634998/158590108-a8c6794e-f3dd-4dd7-bf24-a02fdfca83a3.jpeg)
+![11](https://user-images.githubusercontent.com/79634998/158590118-84cc6dfe-ed94-4b7e-b556-e919ac6683cc.jpeg)
+![10](https://user-images.githubusercontent.com/79634998/158590128-924787ad-eded-4ec1-893c-7d8c53505327.jpeg)
+![14](https://user-images.githubusercontent.com/79634998/158590152-6b68bca6-0f8b-4e9f-b781-f54b9b7e3e72.jpeg)
+![1](https://user-images.githubusercontent.com/79634998/158590183-8cb923ec-2964-46a3-b870-ea288c7404de.jpeg)
